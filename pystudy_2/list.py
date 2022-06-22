@@ -8,8 +8,7 @@ list1.insert(1, "a")
 list1.remove("e")
 list1.append("1")
 list1.pop()
-list1.append("s")
-list1.append("n")
+list1.extend(["s","n"])
 
 
 print(list1[0]+list1[1], list1[2]+list1[1]+list1[3]+list1[2])
