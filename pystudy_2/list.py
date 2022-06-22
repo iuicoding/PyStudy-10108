@@ -3,8 +3,8 @@
 list1=["0", "3"]
 del list1[1]
 list1.remove("0")
-list1.extend(["w","e"])
-list1.insert(1,"a")
+list1.extend(["w", "e"])
+list1.insert(1, "a")
 list1.remove("e")
 list1.append("1")
 list1.pop()
