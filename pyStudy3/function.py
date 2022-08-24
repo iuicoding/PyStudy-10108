@@ -13,7 +13,7 @@ def add(a, b):
     return a + b
 
 
-def addlist(*b):
+def addList(*b):
     sum = 0
     for b in b:
         sum += b
@@ -25,4 +25,4 @@ printHelloWorld(4)
 printHelloWorld(n=5)
 printAdd(1, 2)
 print(add(1, 3))
-print(addlist(1, 2, 3, 2, 4, 5, 2, 6))
+print(addList(1, 2, 3, 2, 4, 5, 2, 6))
