@@ -1,5 +1,5 @@
-def printHelloWorld():
-    print("Hello World!!")
+def printHelloWorld(n=3):
+    print("Hello World!!"*n)
     return
 
 def printAdd(a, b):
@@ -12,5 +12,6 @@ def add(a,b):
     return a+b
 
 printHelloWorld()
+printHelloWorld(4)
 printAdd(1, 2)
 print(add(1, 3))
