@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c80a91a2-b0b6-4b5e-843e-6720836ae38b" name="변경" comment="2차시">
-      <change afterPath="$PROJECT_DIR$/pystudy_2/bmi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyStudy3/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.bmi">
+  <component name="RunManager" selected="Python.function">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="iuiexample" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +82,9 @@
       <module name="PyStudy-10108" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pystudy_2" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -118,8 +122,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyStudy-10108" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyStudy3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyStudy3/function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.function" />
         <item itemvalue="Python.bmi" />
         <item itemvalue="Python.code_study (1)" />
         <item itemvalue="Python.code_study" />
@@ -140,6 +164,8 @@
       <workItem from="1655273980334" duration="1129000" />
       <workItem from="1655874225248" duration="37000" />
       <workItem from="1655874272515" duration="2877000" />
+      <workItem from="1661321118322" duration="9000" />
+      <workItem from="1661321137999" duration="406000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1655047665303</created>
