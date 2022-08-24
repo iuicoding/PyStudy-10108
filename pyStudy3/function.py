@@ -14,8 +14,11 @@ def add(a, b):
     return a + b
 
 
-def printWithComma(*b):
-    print(b)
+def addlist(*b):
+    sum=0
+    for b in b:
+        sum+=b
+    return sum
 
 
 printHelloWorld()
@@ -23,4 +26,4 @@ printHelloWorld(4)
 printHelloWorld(n=5)
 printAdd(1, 2)
 print(add(1, 3))
-printWithComma(1,2,3,4,2,4)
+print(addlist(1,2,3,2,4,5,2,6))
