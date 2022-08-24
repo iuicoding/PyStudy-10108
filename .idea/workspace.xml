@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c80a91a2-b0b6-4b5e-843e-6720836ae38b" name="변경" comment="3차시">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyStudy3/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyStudy3/function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +165,7 @@
       <workItem from="1655874225248" duration="37000" />
       <workItem from="1655874272515" duration="2877000" />
       <workItem from="1661321118322" duration="9000" />
-      <workItem from="1661321137999" duration="2171000" />
+      <workItem from="1661321137999" duration="2339000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1655047665303</created>
@@ -238,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661323224249</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="3차시">
+      <created>1661323335609</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661323335609</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

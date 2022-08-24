@@ -1,4 +1,3 @@
-
 def printHelloWorld(n=3):
     print("Hello World!!" * n)
     return
@@ -15,9 +14,9 @@ def add(a, b):
 
 
 def addlist(*b):
-    sum=0
+    sum = 0
     for b in b:
-        sum+=b
+        sum += b
     return sum
 
 
@@ -26,4 +25,4 @@ printHelloWorld(4)
 printHelloWorld(n=5)
 printAdd(1, 2)
 print(add(1, 3))
-print(addlist(1,2,3,2,4,5,2,6))
+print(addlist(1, 2, 3, 2, 4, 5, 2, 6))
