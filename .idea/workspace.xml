@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c80a91a2-b0b6-4b5e-843e-6720836ae38b" name="변경" comment="3차시">
-      <change beforePath="$PROJECT_DIR$/pyStudy3/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyStudy3/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyStudy4/code_study4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyStudy4/code_study4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyStudy4/code_study4_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyStudy4/code_study4_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyStudy4/code_study4_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/PyStudy-10108/pyStudy4"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\PyStudy-10108\pyStudy4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\PyStudy-10108" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.function">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="iuiexample" />
@@ -63,6 +77,9 @@
       <module name="PyStudy-10108" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pystudy_2" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -126,6 +143,9 @@
       <module name="PyStudy-10108" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyStudy3" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -166,6 +186,8 @@
       <workItem from="1655874272515" duration="2877000" />
       <workItem from="1661321118322" duration="9000" />
       <workItem from="1661321137999" duration="2459000" />
+      <workItem from="1663737259627" duration="17000" />
+      <workItem from="1663737283347" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1655047665303</created>
